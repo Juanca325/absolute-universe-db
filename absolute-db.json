@@ -15,44 +15,9 @@
   },
   {
     "id": 3,
-    "series": "Absolute Wonder Woman",
+    "series": "Absolute All In Special",
     "number": 1,
-    "release_date": "2024-08-01",
+    "release_date": "2024-10-15",
     "status": "released"
-  },
-  {
-    "id": 4,
-    "series": "Absolute Flash",
-    "number": 1,
-    "release_date": "2024-09-01",
-    "status": "released"
-  },
-  {
-    "id": 5,
-    "series": "Absolute Green Lantern",
-    "number": 1,
-    "release_date": "2024-10-01",
-    "status": "released"
-  },
-  {
-    "id": 6,
-    "series": "Absolute Justice League",
-    "number": 1,
-    "release_date": "2025-02-15",
-    "status": "announced"
-  },
-  {
-    "id": 7,
-    "series": "Absolute Crisis on Infinite Earths",
-    "number": 1,
-    "release_date": "2025-05-10",
-    "status": "announced"
-  },
-  {
-    "id": 8,
-    "series": "Absolute Green Arrow",
-    "number": 1,
-    "release_date": "2026-01-10",
-    "status": "announced"
   }
 ]

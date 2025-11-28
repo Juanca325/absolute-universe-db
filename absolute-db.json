@@ -1,30 +1,87 @@
 [
   {
     "id": 1,
-    "series": "Absolute Batman",
+    "series": "V for Vendetta (Absolute)",
     "number": 1,
-    "release_date": "2024-06-01",
-    "status": "released"
+    "release_date": null,
+    "status": "confirmed"
   },
   {
     "id": 2,
-    "series": "Absolute Superman",
+    "series": "Watchmen (Absolute)",
     "number": 1,
-    "release_date": "2024-06-01",
-    "status": "released"
+    "release_date": null,
+    "status": "confirmed"
   },
   {
     "id": 3,
-    "series": "Absolute All In Special",
+    "series": "The Dark Knight Returns (Absolute)",
     "number": 1,
-    "release_date": "2024-10-15",
-    "status": "released"
+    "release_date": null,
+    "status": "confirmed"
   },
-{
-  "id": 4,
-  "series": "Absolute Green Lantern",
-  "number": 1,
-  "release_date": "2025-03-10",
-  "status": "upcoming"
-}
+  {
+    "id": 4,
+    "series": "The Killing Joke (Absolute)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 5,
+    "series": "All-Star Superman (Absolute)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 6,
+    "series": "The Death of Superman (Absolute)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 7,
+    "series": "Kingdom Come (Absolute)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 8,
+    "series": "Sandman (Absolute, Vol. 1)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 9,
+    "series": "Swamp Thing by Alan Moore (Absolute)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 10,
+    "series": "Preacher (Absolute)",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 11,
+    "series": "Doomsday Clock (Absolute) - si aplica",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  },
+  {
+    "id": 12,
+    "series": "Green Lantern: Rebirth / Absolute collections (Absolute) - selección",
+    "number": 1,
+    "release_date": null,
+    "status": "confirmed"
+  }
 ]
+
